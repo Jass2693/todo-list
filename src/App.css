@@ -1,0 +1,63 @@
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+body {
+  background-color: #232323;
+}
+
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+ul {
+  
+  border: 2px solid #888;
+  border-radius: 5px;
+  box-shadow: 2px 2px 8px #777;
+  width: 75%;
+  margin: auto;
+  padding: 10px;
+
+}
+
+.todoDone {
+color: #060
+}
+.theme-mode {
+  border: 1px solid white;
+  width: 90px;
+  height: 40px;
+  border-radius: 30px;
+  align-items: center;
+
+  
+  position: relative;
+}
+.theme-button {
+  background-color: azure;
+  width: 30px;
+  height: 30px;
+  border-radius: 48%;
+  position: absolute;
+  top: 4px;
+  left: 6px;
+  
+}
+input {
+  border-radius: 5px;
+  background-color: none;
+  font-weight: bold;
+  border: none;
+  padding: 6px;
+}
